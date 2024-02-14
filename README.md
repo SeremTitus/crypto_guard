@@ -26,15 +26,7 @@ CryptoGuard is a decentralized application on the Internet Computer (ICP) blockc
 ```bash
     # Local deploy
     dfx deploy
-```
-``` bash
-    # In terminal contract Tests and interactions
-
-    # Add insurance holder to blockchain
-    dfx canister call crypto_guard addInsurance "Serem" 100000
-
-    # Get back all insurance holders
-    dfx canister call crypto_guard getAllInsurances
+    # Tests and interactions using local host site provided
 ```
 
 

@@ -9,7 +9,7 @@ CryptoGuard is a decentralized application on the Internet Computer (ICP) blockc
 ```
 
 ## Deployment
-# reqired installs
+# required installs
 - IC SDK: https://internetcomputer.org/docs/current/developer-docs/getting-started/install/
  
 - node.js
